@@ -1,0 +1,9 @@
+node_modules/
+infra/*.pem
+*.pem
+*.key
+.env
+
+
+
+
