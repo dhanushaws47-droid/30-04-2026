@@ -1,4 +1,9 @@
 node_modules/
+*.pem
+*.key
 .env
-
+# Terraform (correct ignores)
+.terraform/
+*.tfstate
+*.tfstate.backup
 
