@@ -1,18 +1,12 @@
-node_modules/
-*.pem
-*.key
-.env
-# Terraform (correct ignores)
+# Terraform
 .terraform/
 *.tfstate
 *.tfstate.backup
-
-# Terraform
-*.tfstate
-.terraform/
 
 # Node
 node_modules/
 
 # Keys
 *.pem
+
+
